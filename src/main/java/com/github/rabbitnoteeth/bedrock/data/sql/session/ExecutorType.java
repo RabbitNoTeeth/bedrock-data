@@ -1,4 +1,4 @@
-package com.gitee.rabbitnoteeth.bedrock.data.sql.session;
+package com.github.rabbitnoteeth.bedrock.data.sql.session;
 
 public enum ExecutorType {
 

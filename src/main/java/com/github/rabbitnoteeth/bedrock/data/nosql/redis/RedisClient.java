@@ -1,7 +1,7 @@
-package com.gitee.rabbitnoteeth.bedrock.data.nosql.redis;
+package com.github.rabbitnoteeth.bedrock.data.nosql.redis;
 
-import com.gitee.rabbitnoteeth.bedrock.data.nosql.redis.commands.*;
-import com.gitee.rabbitnoteeth.bedrock.data.nosql.redis.exception.RedisClientException;
+import com.github.rabbitnoteeth.bedrock.data.nosql.redis.commands.*;
+import com.github.rabbitnoteeth.bedrock.data.nosql.redis.exception.RedisClientException;
 import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

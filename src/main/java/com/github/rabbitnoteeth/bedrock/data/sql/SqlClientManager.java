@@ -1,9 +1,9 @@
-package com.gitee.rabbitnoteeth.bedrock.data.sql;
+package com.github.rabbitnoteeth.bedrock.data.sql;
 
-import com.gitee.rabbitnoteeth.bedrock.data.sql.exception.SqlClientException;
-import com.gitee.rabbitnoteeth.bedrock.data.sql.session.ExecutorType;
-import com.gitee.rabbitnoteeth.bedrock.data.sql.session.SqlSession;
-import com.gitee.rabbitnoteeth.bedrock.data.sql.session.TransactionIsolationLevel;
+import com.github.rabbitnoteeth.bedrock.data.sql.exception.SqlClientException;
+import com.github.rabbitnoteeth.bedrock.data.sql.session.ExecutorType;
+import com.github.rabbitnoteeth.bedrock.data.sql.session.SqlSession;
+import com.github.rabbitnoteeth.bedrock.data.sql.session.TransactionIsolationLevel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

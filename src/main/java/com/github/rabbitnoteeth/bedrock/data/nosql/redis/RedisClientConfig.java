@@ -1,9 +1,9 @@
-package com.gitee.rabbitnoteeth.bedrock.data.nosql.redis;
+package com.github.rabbitnoteeth.bedrock.data.nosql.redis;
 
-import com.gitee.rabbitnoteeth.bedrock.data.nosql.redis.exception.RedisClientException;
-import com.gitee.rabbitnoteeth.bedrock.util.validation.ValidationUtils;
-import com.gitee.rabbitnoteeth.bedrock.util.validation.annotation.Validate;
-import com.gitee.rabbitnoteeth.bedrock.util.validation.entity.Rule;
+import com.github.rabbitnoteeth.bedrock.data.nosql.redis.exception.RedisClientException;
+import com.github.rabbitnoteeth.bedrock.util.validation.ValidationUtils;
+import com.github.rabbitnoteeth.bedrock.util.validation.annotation.Validate;
+import com.github.rabbitnoteeth.bedrock.util.validation.entity.Rule;
 
 public class RedisClientConfig {
 

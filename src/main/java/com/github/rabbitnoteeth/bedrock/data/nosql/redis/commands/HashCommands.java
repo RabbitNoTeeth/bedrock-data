@@ -1,4 +1,4 @@
-package com.gitee.rabbitnoteeth.bedrock.data.nosql.redis.commands;
+package com.github.rabbitnoteeth.bedrock.data.nosql.redis.commands;
 
 import redis.clients.jedis.JedisPooled;
 import redis.clients.jedis.params.ScanParams;

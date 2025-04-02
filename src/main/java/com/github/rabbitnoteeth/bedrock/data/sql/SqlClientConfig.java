@@ -1,9 +1,9 @@
-package com.gitee.rabbitnoteeth.bedrock.data.sql;
+package com.github.rabbitnoteeth.bedrock.data.sql;
 
-import com.gitee.rabbitnoteeth.bedrock.data.sql.exception.SqlClientException;
-import com.gitee.rabbitnoteeth.bedrock.util.validation.ValidationUtils;
-import com.gitee.rabbitnoteeth.bedrock.util.validation.annotation.Validate;
-import com.gitee.rabbitnoteeth.bedrock.util.validation.entity.Rule;
+import com.github.rabbitnoteeth.bedrock.data.sql.exception.SqlClientException;
+import com.github.rabbitnoteeth.bedrock.util.validation.ValidationUtils;
+import com.github.rabbitnoteeth.bedrock.util.validation.annotation.Validate;
+import com.github.rabbitnoteeth.bedrock.util.validation.entity.Rule;
 import com.zaxxer.hikari.HikariConfig;
 
 import java.util.ArrayList;

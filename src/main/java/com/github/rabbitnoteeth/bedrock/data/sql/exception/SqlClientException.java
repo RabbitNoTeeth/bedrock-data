@@ -1,4 +1,4 @@
-package com.gitee.rabbitnoteeth.bedrock.data.sql.exception;
+package com.github.rabbitnoteeth.bedrock.data.sql.exception;
 
 public class SqlClientException extends Exception {
 
